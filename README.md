@@ -4,7 +4,7 @@ The Phoenix Guild - Bengaluru Bootcamp (30th - 31st May, 2023)
 
 Repository for all the resources and code snippets from the Bootcamp.
 
-- Event Page: [https://lu.ma/web3bootcamp](Web3Bootcamp)
+- Event Page: [link](https://lu.ma/web3bootcamp)
 
 ## Resources
 
@@ -12,15 +12,15 @@ Some resources for you to begin your journey in Web3. (will be adding more resou
 
 - #### JavaScript
 
-  - [https://developer.mozilla.org/en-US/docs/Web/JavaScript](MDN JavaScript Docs)
+  - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  - [https://javascript.info/](JavaScript Info)
+  - [JavaScript Info](https://javascript.info/)
 
 - #### React:
 
-  - [https://react.dev/](React Official Docs)
+  - [React Official Docs](https://react.dev/)
 
-  - [https://vasanthk.gitbooks.io/react-bits/content/](React Bits)
+  - [React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
 
   - [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)
 
@@ -35,10 +35,13 @@ Some resources for you to begin your journey in Web3. (will be adding more resou
 For the Day 2 of this Bootcamp, we'll be having some hands-on sessions on getting familiar with the ecosystem in general and build an amazing DAPP.
 
 - Node.js (LTS version 18.16.0):
+
   https://nodejs.org/en/download
 
 - Vscode:
+
   https://code.visualstudio.com/Download
 
 - Git:
+
   https://git-scm.com/downloads
